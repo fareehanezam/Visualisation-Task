@@ -30,7 +30,11 @@ The analysis is based on the **Online Retail Dataset**, which contains transacti
 
 ## Graphs ScreenShot
 <img width="1548" height="525" alt="newplot (1)" src="https://github.com/user-attachments/assets/a8b15fbe-4885-433c-b9d3-85300e61149b" />
-
+<img width="1537" height="525" alt="newplot (2)" src="https://github.com/user-attachments/assets/0489fa39-7198-495a-a863-4acbb2aa5c98" />
+<img width="1537" height="525" alt="newplot (3)" src="https://github.com/user-attachments/assets/8c2e0294-347b-453b-8493-31681e59bc46" />
+<img width="1548" height="525" alt="newplot (4)" src="https://github.com/user-attachments/assets/b0e9239d-5c24-4fa5-93c2-3c84d9469c46" />
+<img width="1548" height="525" alt="newplot (5)" src="https://github.com/user-attachments/assets/aea3c511-5386-407e-869e-0ae7d905a2cf" />
+<img width="1548" height="525" alt="newplot (6)" src="https://github.com/user-attachments/assets/a61c352c-22cc-4f8a-b98e-c984ced4f272" />
 
 ------
 ## 💡 Key Insights
