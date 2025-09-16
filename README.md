@@ -1,6 +1,6 @@
 # E-Commerce Customer Behavior Analysis 🛍️
 
-This project performs an in-depth Exploratory Data Analysis (EDA) on the "Online Retail" dataset from the UCI Machine Learning Repository. The goal is to uncover insights into sales patterns, customer purchasing behavior, and geographic trends using various data visualization and machine learning techniques.
+This project performs an in-depth Visualization on the "Online Retail" dataset from the UCI Machine Learning Repository. The goal is to uncover insights into sales patterns, customer purchasing behavior, and geographic trends using various data visualization and machine learning techniques.
 
 -----
 
