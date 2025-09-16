@@ -1,10 +1,3 @@
-# Visualisation-Task
-Visualization of the UCI Online Retail dataset to uncover sales trends and customer behavior. This project uses Python for RFM analysis, K-Means clustering, and PCA to create actionable customer segments.
-
-Here's the content for a `README.md` file for your e-commerce data analysis project.
-
------
-
 # E-Commerce Customer Behavior Analysis 🛍️
 
 This project performs an in-depth Exploratory Data Analysis (EDA) on the "Online Retail" dataset from the UCI Machine Learning Repository. The goal is to uncover insights into sales patterns, customer purchasing behavior, and geographic trends using various data visualization and machine learning techniques.
@@ -45,10 +38,3 @@ The analysis revealed several actionable insights:
   * **Prime Shopping Hours:** The busiest shopping period is during weekdays from **12 PM to 3 PM**.
   * **Dominant Market:** The **United Kingdom** is the primary market, accounting for the vast majority of sales.
   * **Customer Segments:** Customers can be clearly grouped into segments (e.g., high-value, loyal, at-risk), allowing for targeted marketing strategies.
-
-
-
-## 
-    ```
-
-4.  **Open the `ecommerce_visualization.ipynb` file and run the cells sequentially.** The notebook fetches the data directly from the online source, so no manual download is required.
